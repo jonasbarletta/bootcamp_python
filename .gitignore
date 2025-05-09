@@ -174,10 +174,10 @@ cython_debug/
 .pypirc
 
 # txt
-.txt
+*.txt
 
 # .parquet
-.parquet
+*.parquet
 
 # png
 .png
